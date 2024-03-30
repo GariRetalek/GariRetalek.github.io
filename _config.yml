@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Gari Retalek # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am a programmer in Python, Java and Javascript. 
   <br><br>
-  Second description 
+  I own my own company called Infotech Solutions.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://uk.linkedin.com/in/gari-retalek">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
